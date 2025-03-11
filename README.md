@@ -1,12 +1,11 @@
 ## 👋 Olá, sou Emanuella  
 
 🚀 Desenvolvedora apaixonada por tecnologia  
-💡 Explorando novas linguagens  
-📚 Atualmente estudando HTML, Java, JS...
+💡 Estudando novas linguagens  
+📚 HTML, Java, JS, Python, ...
 
 ### 🌐 Me encontre:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuella7/)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-black?style=flat&logo=react)](https://seuportfólio.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hzmanux/)  
 
 ---
 
