@@ -13,7 +13,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuella7&show_icons=true&theme=dracula)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuella7&layout=compact&theme=dracula)  
 
----
 
-### 🐍 Animação da Cobrinha  
-![Snake animation](https://github.com/emanuella7/emanuella7/blob/output/snake.svg)
