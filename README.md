@@ -16,4 +16,4 @@
 ---
 
 ### 🐍 Animação da Cobrinha  
-![Snake animation](https://github.com/emanuella7/emanuella7/blob/output/snake2.svg)
+![Snake animation](https://github.com/emanuella7/emanuella7/blob/output/snake.svg)
