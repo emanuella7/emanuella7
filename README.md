@@ -1,8 +1,9 @@
-## 👋 Olá, sou Emanuella  
+## 👋 Olá!
+👾Me chamo Emanuella, estudo IFCE-campus Maranguape, e  atualmente estou no  5º semestre do curso tecnico em informatica.
 
+💡 Estudando novas linguagens.
 
-💡 Estudando novas linguagens  
-📚 HTML, Java, JS, Python, ...
+📚 HTML, Java, ...
 
 ### 🌐 Me encontre:
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hzmanux/)  
