@@ -65,9 +65,19 @@ Atualmente estudo e pratico com as linguagens:
 </div>
 
 ---
+
+
+
+
+---
 ## Quantidade de visitantes
 
 ![Contador de Visitantes](https://profile-counter.glitch.me/{rfahham}/count.svg)
+
+
+
+> **"Nem todo recomeço precisa de aplausos, às vezes só precisa de coragem."**
+> Colleen Hoover
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
 
