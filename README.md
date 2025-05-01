@@ -1,3 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Seja+bem-vindo!+%F0%9F%8C%B8&color=FFB6C1)](https://git.io/typing-svg)
+
+
 ## 👋 Olá!
 
 Me chamo **Emanuella**, tenho **17 anos** e sou estudante do **IFCE – Campus Maranguape**, atualmente no **5º semestre** do curso técnico em Informática.  
@@ -36,19 +42,32 @@ Atualmente estudo e pratico com as linguagens:
 
 </div>
 
+---
 
 ### 🚀 Linguagens 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00008B" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=A52A2A" />
+  <img src="https://img.shields.io/badge/CSS-222222?&style=for-the-badge&logo=css3&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+### 👾 Ferramentas                     
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-
-
+  
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neguin05)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=emanuella7&color=blue)
+---
+## Quantidade de visitantes
 
+![Contador de Visitantes](https://profile-counter.glitch.me/{rfahham}/count.svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
 
