@@ -34,14 +34,11 @@ Atualmente estudo e pratico com as linguagens:
 [![Email Pessoal](https://img.shields.io/badge/Email%20Pessoal-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimaemanuella7@gmail.com)
 
 ### 📈 Estatísticas do GitHub  
-<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuella7&show_icons=true&theme=default&hide_border=false&bg_color=00000000" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuella7&layout=compact&theme=default&hide_border=false&bg_color=00000000" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuella7&show_icons=true&theme=default&hide_border=false&bg_color=00000000" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuella7&layout=compact&theme=default&hide_border=false&bg_color=00000000" />
 
 </div>
-
 ---
 
 ### 🚀 Linguagens 
