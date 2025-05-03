@@ -7,7 +7,7 @@
 ## 👋 Olá!
 
 Me chamo **Emanuella**, tenho **17 anos** e sou estudante do **IFCE – Campus Maranguape**, atualmente no **5º semestre** do curso técnico em Informática.  
-Sou apaixonada por tecnologia e estou sempre aprendendo novas linguagens de programação, com foco em desenvolvimento prático e crescimento constante.
+Sou apaixonada por tecnologia, livros e estou sempre aprendendo novas linguagens de programação.
 
 Atualmente estudo e pratico com as linguagens:  
 📌 **Java**, **HTML**, **JavaScript** e **Python**.
