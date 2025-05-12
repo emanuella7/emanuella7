@@ -69,7 +69,7 @@ Atualmente estudo e pratico com as linguagens:
 ---
 ## Quantidade de visitantes
 
-![Contador de Visitantes](https://profile-counter.glitch.me/{rfahham}/count.svg)
+![Contador de Visitantes](https://profile-counter.glitch.me/{emanuella7}/count.svg)
 
 
 
